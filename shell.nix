@@ -2,7 +2,7 @@
 
 let
     rust = nixpkgs.rustChannelOf {
-        date = "2021-10-21";
+        date = "2021-12-02";
         channel = "stable";
     };
 in
